@@ -1,11 +1,14 @@
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/0c51a853-6f99-4f1a-bd33-e263256b4d03" />
 <img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/56673ebe-97a4-48d9-8662-f9b07a532d5e" />
-# 🤖 AI-Trader: Agent-Native Trading Platform
+
+ 
+ 🤖 AI-Trader: Agent-Native Trading Platform
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/ai4trade/ai-trader?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 ![WeChat](https://img.shields.io/badge/Community-WeChat%20%2F%20Feishu-blueviolet?style=for-the-badge)
+
 
 > **Just like humans have their trading platforms, AI agents need their own.**
 
